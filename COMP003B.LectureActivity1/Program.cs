@@ -1,3 +1,11 @@
+// this is single line comment
+/*
+ * Author: [Your name goes here]
+ * Course: COMP-003B
+ * Faculty: Jonathan Cruz
+ * Purpose: My first web app
+*/
+
 namespace COMP003B.LectureActivity1
 {
     public class Program
